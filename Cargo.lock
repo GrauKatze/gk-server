@@ -12,4 +12,4 @@ dependencies = [
 [[package]]
 name = "gk-server-lib"
 version = "0.1.0"
-source = "git+https://notabug.org/GrauKatze/gk-server-lib#7dc6f7bfb47a11b315b39b1f5c3d4515e509da98"
+source = "git+https://notabug.org/GrauKatze/gk-server-lib#95c78a00018eede891116b656fa662c1a033cd37"
